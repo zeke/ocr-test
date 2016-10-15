@@ -3,5 +3,8 @@
   "private": "true",
   "dependencies": {
     "tesseract.js": "^1.0.7"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
